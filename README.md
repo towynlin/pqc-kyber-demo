@@ -19,7 +19,8 @@ to make them even easier to use.
 
 ## Demo
 
-Just look at main.go. It's only a few lines of code. Running it outputs something like this.
+Just look at [main.go](https://github.com/towynlin/pqc-kyber-demo/blob/main/main.go).
+It's only a few lines of code. Running it outputs something like this.
 
 ```
 Alice's shared secret: f047de763450d9a011bc464bbb8c2ffe85f56f3e72ccf25d225d8f372f2b8472
